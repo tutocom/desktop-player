@@ -10,10 +10,10 @@
       "url": "https://github.com/tutocom/desktop-player/raw/v0.1.0/win32.zip"
     },
     "linux32": {
-      "url": "https://github.com/tutocom/desktop-player/raw/master/linux32.tar.gz"
+      "url": "https://github.com/tutocom/desktop-player/raw/v0.1.0/linux32.tar.gz"
     },
     "linux64": {
-      "url": "https://github.com/tutocom/desktop-player/raw/master/linux64.tar.gz"
+      "url": "https://github.com/tutocom/desktop-player/raw/v0.1.0/linux64.tar.gz"
     }
   }
 }
