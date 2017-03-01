@@ -13,7 +13,7 @@
       "url": "https://github.com/tutocom/desktop-player/raw/master/win64.zip"
     },
     "win": {
-      "url": "https://github.com/tutocom/desktop-player/raw/master/win64.zip"
+      "url": "https://github.com/tutocom/desktop-player/raw/master/win32.zip"
     },
     "linux64": {
       "url": "https://github.com/tutocom/desktop-player/raw/master/linux64.tar.gz"
