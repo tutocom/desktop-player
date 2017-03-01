@@ -6,14 +6,9 @@
     "mac": {
       "url": "https://github.com/tutocom/desktop-player/raw/master/osx64.zip"
     },
-    "win32": {
-      "url": "https://github.com/tutocom/desktop-player/raw/master/win32.zip"
-    },
-    "win64": {
-      "url": "https://github.com/tutocom/desktop-player/raw/master/win64.zip"
-    },
     "win": {
-      "url": "https://github.com/tutocom/desktop-player/raw/master/win32.zip"
+      "url": "https://github.com/tutocom/desktop-player/raw/master/win32.zip",
+      "execPath": "Tuto.com/Tuto.com.exe"
     },
     "linux64": {
       "url": "https://github.com/tutocom/desktop-player/raw/master/linux64.tar.gz"
