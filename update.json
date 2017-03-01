@@ -7,8 +7,7 @@
       "url": "https://github.com/tutocom/desktop-player/raw/master/osx64.zip"
     },
     "win": {
-      "url": "https://github.com/tutocom/desktop-player/raw/master/win32.zip",
-      "execPath": "Tuto.com/Tuto.com.exe"
+      "url": "https://github.com/tutocom/desktop-player/raw/master/win32.zip"
     },
     "linux64": {
       "url": "https://github.com/tutocom/desktop-player/raw/master/linux64.tar.gz"
