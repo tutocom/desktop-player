@@ -9,8 +9,8 @@
     "win32": {
       "url": "https://github.com/tutocom/desktop-player/raw/master/win32.zip"
     },
-    "linux32": {
-      "url": "https://github.com/tutocom/desktop-player/raw/master/linux32.tar.gz"
+    "win64": {
+      "url": "https://github.com/tutocom/desktop-player/raw/master/win64.zip"
     },
     "linux64": {
       "url": "https://github.com/tutocom/desktop-player/raw/master/linux64.tar.gz"
