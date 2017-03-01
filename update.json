@@ -4,16 +4,16 @@
   "manifestUrl": "https://github.com/tutocom/desktop-player/raw/master/update.json",
   "packages": {
     "mac": {
-      "url": "https://github.com/tutocom/desktop-player/raw/v0.1.0/osx64.zip"
+      "url": "https://github.com/tutocom/desktop-player/raw/master/osx64.zip"
     },
     "win32": {
-      "url": "https://github.com/tutocom/desktop-player/raw/v0.1.0/win32.zip"
+      "url": "https://github.com/tutocom/desktop-player/raw/master/win32.zip"
     },
     "linux32": {
-      "url": "https://github.com/tutocom/desktop-player/raw/v0.1.0/linux32.tar.gz"
+      "url": "https://github.com/tutocom/desktop-player/raw/master/linux32.tar.gz"
     },
     "linux64": {
-      "url": "https://github.com/tutocom/desktop-player/raw/v0.1.0/linux64.tar.gz"
+      "url": "https://github.com/tutocom/desktop-player/raw/master/linux64.tar.gz"
     }
   }
 }
