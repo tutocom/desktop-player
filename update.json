@@ -13,7 +13,7 @@
       "url": "https://github.com/tutocom/desktop-player/blob/master/installer/tutopldk-win-setup-32.exe"
     },
     "linux-x64": {
-      "url": "https://github.com/tutocom/desktop-player/raw/master/linux64.tar.gz"
+      "url": "https://github.com/tutocom/desktop-player/raw/master/tutopldk-linux-setup-64.tar.gz"
     }
   }
 }
