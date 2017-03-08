@@ -6,10 +6,10 @@
     "darwin-x64": {
       "url": "https://raw.githubusercontent.com/tutocom/desktop-player/master/installer/tutopldk-mac-setup.pkg"
     },
-    "win-x64": {
+    "win32-x64": {
       "url": "https://raw.githubusercontent.com/tutocom/desktop-player/master/installer/tutopldk-win-setup-64.exe"
     },
-    "win-ia32": {
+    "win32-ia32": {
       "url": "https://raw.githubusercontent.com/tutocom/desktop-player/master/installer/tutopldk-win-setup-32.exe"
     },
     "linux-x64": {
