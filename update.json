@@ -1,6 +1,6 @@
 {
   "name": "Tuto.com",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "manifestUrl": "https://github.com/tutocom/desktop-player/raw/master/update.json",
   "installers": {
     "darwin-x64": {
