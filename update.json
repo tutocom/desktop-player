@@ -4,7 +4,7 @@
   "manifestUrl": "https://github.com/tutocom/desktop-player/raw/master/update.json",
   "installers": {
     "darwin-x64": {
-      "url": "https://raw.githubusercontent.com/tutocom/desktop-player/master/installer/tutopldk-mac-setup.pkg"
+      "url": "https://raw.githubusercontent.com/tutocom/desktop-player/master/installer/tutopldk-mac-setup-signed.pkg"
     },
     "win32-x64": {
       "url": "https://raw.githubusercontent.com/tutocom/desktop-player/master/installer/tutopldk-win-setup-64.exe"
