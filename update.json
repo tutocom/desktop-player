@@ -11,7 +11,7 @@
     },
     "win32-ia32": {
       "url": "https://raw.githubusercontent.com/tutocom/desktop-player/v5.4.3/installer/tutopldk-win-setup-32.exe"
-    }
+    },
     "linux-x64": {
       "url": "https://raw.githubusercontent.com/tutocom/desktop-player/master/installer/tutopldk-linux-setup-64.deb"
     }
