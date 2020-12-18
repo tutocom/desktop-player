@@ -1,10 +1,10 @@
 {
   "name": "Tuto.com",
-  "version": "5.7.0",
+  "version": "5.7.1",
   "manifestUrl": "https://raw.githubusercontent.com/tutocom/desktop-player/master/update.json",
   "installers": {
     "darwin-x64": {
-      "url": "https://media.githubusercontent.com/media/tutocom/desktop-player/v5.7.0/installer/tutopldk-mac-setup.pkg"
+      "url": "https://media.githubusercontent.com/media/tutocom/desktop-player/v5.7.1/installer/tutopldk-mac-setup.pkg"
     },
     "win32-x64": {
       "url": "https://raw.githubusercontent.com/tutocom/desktop-player/v5.7.1/installer/tutopldk-win-setup-64.exe"
