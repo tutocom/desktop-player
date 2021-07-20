@@ -7,10 +7,10 @@
       "url": "https://media.githubusercontent.com/media/tutocom/desktop-player/beta/installer/tutopldk-mac-setup.pkg"
     },
     "win32-x64": {
-      "url": "https://raw.githubusercontent.com/tutocom/desktop-player/beta/installer/tutopldk-win-setup.exe"
+      "url": "https://media.githubusercontent.com/media/tutocom/desktop-player/beta/installer/tutopldk-win-setup.exe"
     },
     "win32-ia32": {
-      "url": "https://raw.githubusercontent.com/tutocom/desktop-player/beta/installer/tutopldk-win-setup.exe"
+      "url": "https://media.githubusercontent.com/media/tutocom/desktop-player/beta/installer/tutopldk-win-setup.exe"
     }
   }
 }
