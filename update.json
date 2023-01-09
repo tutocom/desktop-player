@@ -4,13 +4,13 @@
   "manifestUrl": "https://raw.githubusercontent.com/tutocom/desktop-player/master/update.json",
   "installers": {
     "darwin-x64": {
-      "url": "https://media.githubusercontent.com/media/tutocom/desktop-player/master/installer/tutopldk-mac-setup.pkg"
+      "url": "https://raw.githubusercontent.com/tutocom/desktop-player/master/installer/tutopldk-mac-setup.pkg"
     },
     "win32-x64": {
-      "url": "https://media.githubusercontent.com/media/tutocom/desktop-player/master/installer/tutopldk-win-setup-64.exe"
+      "url": "https://raw.githubusercontent.com/tutocom/desktop-player/master/installer/tutopldk-win-setup-64.exe"
     },
     "win32-ia32": {
-      "url": "https://media.githubusercontent.com/media/tutocom/desktop-player/master/installer/tutopldk-win-setup-32.exe"
+      "url": "https://raw.githubusercontent.com/tutocom/desktop-player/master/installer/tutopldk-win-setup-32.exe"
     }
   }
 }
